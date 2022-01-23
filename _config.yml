@@ -17,8 +17,8 @@ title: Retrograde
 email: retrograde@dr-grim.com
 description: >- # this means to ignore newlines until "baseurl:"
   In loose orbit of the past, 8 bits at a time...
-# twitter_username: username
 github_username: dr-grim
+# twitter_username: username
 minimal_mistakes_skin: mode7
 search: true
 
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Dr. Grim"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "STA present; LDA past"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -67,9 +67,12 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "retrograde"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dr-grim"
+      url: "https://dr-grim.github.io/retrograde"
+    - label: "prograde"
+      icon: "fab fa-fw fa-github"
+      url: "https://iangrimstead.github.io/prograde/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -79,9 +82,12 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "retrograde"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dr-grim"
+      url: "https://dr-grim.github.io/retrograde"
+    - label: "prograde"
+      icon: "fab fa-fw fa-github"
+      url: "https://iangrimstead.github.io/prograde/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"

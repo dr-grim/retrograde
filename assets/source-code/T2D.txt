@@ -1,0 +1,43 @@
+  100 REM T2D - a simple Tape to Disc copier
+  110 
+  120 REM v1.0 - 2020-01-20 - Ian Grimstead
+  130 
+  140 REM Assumes ADFS, doesn't do anything clever to
+  150 REM map "." to different characters or create
+  160 REM directories
+  170 
+  180  REPEAT
+  190  
+  200  PRINT
+  210  PRINT "Loading from TAPE..."
+  220  PRINT
+  230  *TAPE
+  240  startAddress = LOMEM + &0400
+  250  REM Show load, exec details...
+  260  *OPT 1,2
+  270  loadCommand$ = "*LOAD """" " + STR$~(startAddress)
+  280  REM  PRINT loadCommand$
+  290  OSCLI(loadCommand$)
+  300  
+  310  filenameChar = &03B2
+  320  filename$ = ""
+  330  REPEAT
+  340  filename$ = filename$ + CHR$(?filenameChar)
+  350  filenameChar = filenameChar + 1
+  360  UNTIL ?filenameChar = 0
+  370  
+  380  loadAddress = !&03BE
+  390  execAddress = !&03C2
+  400  blockNumber = ?&03C6 + &0100 * ?&03C7
+  410  blockLength = ?&03C8 + &0100 * ?&03C9
+  420  length = blockLength + &0100 * blockNumber
+  430  
+  440  saveCommand$ = "*SAVE """ + filename$ + """ " + STR$~(startAddress) + " +" + STR$~(length) + " " + STR$~(execAddress) + " " + STR$~(loadAddress)
+  450  PRINT
+  460  PRINT "Saving to ADFS..."
+  470  *ADFS
+  480  REM  PRINT saveCommand$
+  490  OSCLI(saveCommand$)
+  500  PRINT "...saved"
+  510  
+  520  UNTIL FALSE
