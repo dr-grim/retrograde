@@ -11,7 +11,7 @@ tags:
   - StarDot
 ---
 
-![BBC Master PSU ready to send](/assets/images/BBC Master PSU ready to send.jpeg)
+![BBC Master PSU ready to send]({{ site.url }}{{ site.baseurl }}/assets/images/BBC Master PSU ready to send.jpeg)
 
 I'd extracted my PSU (as above!), and sent it in the post for Mark @ [RetroClinic](http://www.retroclinic.com) to look at. Also took an option on a [GOTEK](http://www.retroclinic.com/docs/GOTEKFloppyDrive.pdf) unit - so I could transfer from Opus DDOS into ADFS on a USB stick, which could then be read . . .
 
@@ -19,7 +19,7 @@ Mark replaced the burnt out caps, the mains lead and the switch - very neat job,
 
 However, the configuration was lost as I'd removed the battery pack - "replace with Acorn parts" was written on the label, slight challenge there:
 
-![BBC Master - battery unplugged](/assets/images/BBC Master battery case.jpeg)
+![BBC Master - battery unplugged]({{ site.url }}{{ site.baseurl }}/assets/images/BBC Master battery case.jpeg)
 
 However, mine was the "fix" Acorn applied which meant it was 3x AA batteries, a resistor and a diode - a replacement for a Lithium battery that could recharge explosively (!). My batteries were just 3 Duracell AA, so extracted, cleaned the contacts with vinegar (to dissolve the battery crud), scrubbed clean and ready to go with new batteries.
 

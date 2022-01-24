@@ -12,7 +12,7 @@ Ok, so next form of media . . . cassette tapes! That veritable source of games f
 
 Now, thinking ahead, I'd kept a tape player "just in case" (or, another way of looking at it - I must be a compulsive hoarder). My Sony Walkman (a "WM-B47" according to the shell) was good in its day - automatically turns the cassette over to play both sides, Dolby noise reduction, metal tape support and a graphic equaliser! It's in pretty good condition:
 
-![Sony walkman](/assets/images/walkman.jpeg)
+![Sony walkman]({{ site.url }}{{ site.baseurl }}/assets/images/walkman.jpeg)
 
 . . . but, looks can be deceiving . . .
 

@@ -10,11 +10,11 @@ tags:
 
 The loft has been raided; one BBC Master 128k, one Opus Challenger 3in1 and a bundle of 5.25" discs and (gasp) cassettes.
 
-![BBC Master 128k and discs](/retrograde/assets/images/vertigo-treasure-trove.jpeg)
+![BBC Master 128k and discs]({{ site.url }}{{ site.baseurl }}/assets/images/vertigo-treasure-trove.jpeg)
 
 A veritable treasure trove of memorabilia! Now, I knew that an old system could be unreliable, and I had a (very) hazy memory of the BBC Master having issued with its battery (for stored settings and its clock), so I took the precaution of popping the case - no mouse nests, good - and unplugged the battery case.
 
-![BBC Master - battery unplugged](/assets/images/BBC Master battery case.jpeg)
+![BBC Master - battery unplugged]({{ site.url }}{{ site.baseurl }}/assets/images/BBC Master battery case.jpeg)
 
 Alas, this wasn't enough . . . I plugged it in, fired it up - so far, so good! "durrr-doop" went the beeb, happy days. So, power off, ferret around for ye olde UHF lead, and a matching TV. I'd kept a Samsung LCD TV that I'd used as a monitor for just this purpose (it has S-video, SCART, composite, VGA, DVI and UHF analogue - a swiss army knife of its day). "durrr-doop" - retune the TV, I was in! Slighty fuzzy, but there was the beeb. Slightly confused due to losing its configuration, but I was off.
 
