@@ -10,7 +10,7 @@ tags:
 
 The loft has been raided; one BBC Master 128k, one Opus Challenger 3in1 and a bundle of 5.25" discs and (gasp) cassettes.
 
-![BBC Master 128k and discs](/assets/images/vertigo-treasure-trove.jpeg)
+![BBC Master 128k and discs](/retrograde/assets/images/vertigo-treasure-trove.jpeg)
 
 A veritable treasure trove of memorabilia! Now, I knew that an old system could be unreliable, and I had a (very) hazy memory of the BBC Master having issued with its battery (for stored settings and its clock), so I took the precaution of popping the case - no mouse nests, good - and unplugged the battery case.
 
