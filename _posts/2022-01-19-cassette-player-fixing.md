@@ -1,6 +1,5 @@
 ---
 title: "Cassette player repair"
-date: 2022-01-19
 categories:
   - refurbish
 tags:

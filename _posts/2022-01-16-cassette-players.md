@@ -1,6 +1,5 @@
 ---
 title: "Cassette players"
-date: 2022-01-16
 categories:
   - refurbish
 tags:

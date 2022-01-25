@@ -1,6 +1,5 @@
 ---
 title: "GitHub pages in MODE 7"
-date: 2022-01-23
 categories:
   - blog
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Floppy disc drive cleaning"
-date: 2022-01-21
+last_modified_at: 2022-01-25T20:07
 categories:
   - refurbish
 tags:
@@ -29,4 +29,8 @@ Spray isopropyl alcohol onto cleaning cloth [keeping window open - this stuff is
 
 Foolishly, I forgot to photograph the disc before, only after cleaning. I'll take a snap if I can capture the mould - its not easy to spot (need to catch the light on it).
 
-However, disc popped into the Opus Challenger drive, and fired up - works like a charm! Now onto Opus DDOS to ADFS transfer!
+However, disc popped into the Opus Challenger drive, and fired up - works like a charm! One `*VERIFY 0` and `*VERIFY 2` later:
+
+![Photo of successful verify]({{ site.url }}{{ site.baseurl }}/assets/images/floppy-verify-success.jpeg)
+
+Bellisimo! Now onto Opus DDOS to ADFS transfer!

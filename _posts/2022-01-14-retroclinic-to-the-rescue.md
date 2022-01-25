@@ -1,6 +1,5 @@
 ---
 title: "RetroClinic to the rescue!"
-date: 2022-01-14
 categories:
   - refurbish
 tags:

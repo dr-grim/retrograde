@@ -1,6 +1,5 @@
 ---
 title: "Welcome to Retrograde!"
-date: 2021-11-27
 categories:
   - blog
 ---

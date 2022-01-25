@@ -1,6 +1,5 @@
 ---
 title: "Mouldy floppies"
-date: 2022-01-15
 categories:
   - refurbish
 tags:

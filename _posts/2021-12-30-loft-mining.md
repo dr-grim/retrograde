@@ -1,6 +1,5 @@
 ---
 title: "Loft mining"
-date: 2021-12-30
 categories:
   - refurbish
 tags:
