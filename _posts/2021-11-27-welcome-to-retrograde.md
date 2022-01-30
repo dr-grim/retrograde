@@ -2,6 +2,9 @@
 title: "Welcome to Retrograde!"
 categories:
   - blog
+tags:
+  - Idesyne
+  - Superior Software
 ---
 
 Hello, and welcome to Retrograde! A trip into the disc and tape archives . . .
