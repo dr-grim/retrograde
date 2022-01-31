@@ -5,6 +5,8 @@ categories:
 tags:
   - Idesyne
   - Superior Software
+  - Robo-1
+  - C&VG
 ---
 
 Hello, and welcome to Retrograde! A trip into the disc and tape archives . . .
