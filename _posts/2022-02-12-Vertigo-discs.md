@@ -21,7 +21,9 @@ Note sheen on disc case - needed reflection to highlight dirt.
 # Vertigo retrieval
 Anyway, here's the synopsis of the data retrieval so far, in rough order of age...:
 
-![RAB New Master Disc BBC MASTER 128k *1991* - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/RAB New Master Disc BBC MASTER 128k *1991* - thumbnail.jpeg) | Roll-A-Ball New Master Disc (for BBC MASTER 128k); before we'd polished the game with advice from Superior Software.
+Photo | Note on disc contents
+-|-
+![RAB New Master Disc BBC MASTER 128k *1991* - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/RAB New Master Disc BBC MASTER 128k *1991* - thumbnail.jpeg) | Roll-A-Ball New Master Disc (for BBC Master 128k); before we'd polished the game with advice from Superior Software.
 -|-
 ![Roll-A-Ball Master backup - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/Roll-A-Ball-Master-backup - thumbnail.jpeg) | Roll-A-Ball Master backup - I usually kept two physical copies just in case. Floppy discs were a precious commodity when in school - spot the recycling!
 -|-
@@ -51,6 +53,6 @@ Anyway, here's the synopsis of the data retrieval so far, in rough order of age.
 
 Well, not bad to be honest - I think I've got what I need to get the sources back for all versions. Due to the lack of version control, there's a lot of duplication - the BBC'B' disc will contain mostly the same contents as the BBC'B' cassette version, rather than conditional assembly.
 
-Only real "casualty" is the "Sound and Music" disc - seems that white floppy discs don't stand the test of time. Ironically, other cheap, unbranded discs are fine - and have survived better than the Scotch 3M discs.
+Only real "casualty" is the "Sound and music development" disc - seems that white floppy discs don't stand the test of time. That had various experiments with music & sfx on it. Ironically, other cheap, unbranded discs are fine - and have survived better than the Scotch 3M discs.
 
 Next mission: start sifting and uploading to GitHub! I'll start with the Master 128k disc, upload that and get it working with `beebasm` so it can be rebuilt off-beeb. Then onto the other discs - and finally to "diff" what I tweaked. . .
