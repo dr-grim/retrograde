@@ -35,9 +35,9 @@ Photo | Note on disc contents
 -|-
 ![Vertigo BBC'B' *1991* (DISC) FAULTY - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/Vertigo BBC'B' *1991* (DISC) FAULTY - thumbnail.jpeg) | Vertigo BBC'B' disc version - alas, another faulty disc I can't retrieve.
 -|-
-![BBC'B' CASSETTE VERSION VERTIGO - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/BBC'B' CASSETTE VERSION VERTIGO - thumbnail.jpeg) | BBC'B' cassette version - can't recall difference between the disc & cassette versions for the BBC 'B'.
+![BBC'B' CASSETTE VERSION VERTIGO - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/BBC'B' CASSETTE VERSION VERTIGO - thumbnail.jpeg) | BBC'B' cassette version - can't recall difference between the disc & cassette versions for the BBC 'B' - possibly the disc one loads the levels in on demand.
 -|-
-![Vertigo disc protection - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/Vertigo disc protection - thumbnail.jpeg) | Vertigo disc protection - stops simply piracy, also 40 track reader for 80 track drive.
+![Vertigo disc protection - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/Vertigo disc protection - thumbnail.jpeg) | Vertigo disc protection - stops simple piracy, also 40 track reader for 80 track drive.
 -|-
 ![Vertigo loading code - thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/Vertigo loading code - thumbnail.jpeg) | Vertigo loading code - eye candy!
 -|-
