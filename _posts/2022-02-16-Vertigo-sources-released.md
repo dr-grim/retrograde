@@ -1,7 +1,7 @@
 ---
 title: "Vertigo Sources Released!"
 categories:
-  - data transfer
+  - game sources
 tags:
   - Vertigo
   - beebasm
